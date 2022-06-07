@@ -1,0 +1,7 @@
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\bin\Debug\Shannon-Fano.exe.config
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\bin\Debug\Shannon-Fano.exe
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\bin\Debug\Shannon-Fano.pdb
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\obj\Debug\Shannon-Fano.csproj.AssemblyReference.cache
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\obj\Debug\Shannon-Fano.csproj.CoreCompileInputs.cache
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\obj\Debug\Shannon-Fano.exe
+E:\Университет\Теор инф и код\Shannon-Fano\Shannon-Fano\obj\Debug\Shannon-Fano.pdb
