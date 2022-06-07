@@ -1,0 +1,21 @@
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.csproj.AssemblyReference.cache
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.csproj.SuggestedBindingRedirects.cache
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.Properties.Resources.resources
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.csproj.GenerateResource.cache
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.csproj.CoreCompileInputs.cache
+C:\Users\korut\source\repos\LZW\LZW\bin\Debug\LZW.exe.config
+C:\Users\korut\source\repos\LZW\LZW\bin\Debug\LZW.exe
+C:\Users\korut\source\repos\LZW\LZW\bin\Debug\LZW.pdb
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.Form1.resources
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.exe
+C:\Users\korut\source\repos\LZW\LZW\obj\Debug\LZW.pdb
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\bin\Debug\LZW.exe.config
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\bin\Debug\LZW.exe
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\bin\Debug\LZW.pdb
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.csproj.AssemblyReference.cache
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.Form1.resources
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.Properties.Resources.resources
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.csproj.GenerateResource.cache
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.csproj.CoreCompileInputs.cache
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.exe
+E:\Университет\Теор инф и код\Новая папка\LZW\LZW\LZW\obj\Debug\LZW.pdb
