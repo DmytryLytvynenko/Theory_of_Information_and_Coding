@@ -1,0 +1,7 @@
+E:\Университет\Теор инф и код\Huffman method\Huffman method\bin\Debug\Huffman method.exe.config
+E:\Университет\Теор инф и код\Huffman method\Huffman method\bin\Debug\Huffman method.exe
+E:\Университет\Теор инф и код\Huffman method\Huffman method\bin\Debug\Huffman method.pdb
+E:\Университет\Теор инф и код\Huffman method\Huffman method\obj\Debug\Huffman method.csproj.AssemblyReference.cache
+E:\Университет\Теор инф и код\Huffman method\Huffman method\obj\Debug\Huffman method.csproj.CoreCompileInputs.cache
+E:\Университет\Теор инф и код\Huffman method\Huffman method\obj\Debug\Huffman method.exe
+E:\Университет\Теор инф и код\Huffman method\Huffman method\obj\Debug\Huffman method.pdb
