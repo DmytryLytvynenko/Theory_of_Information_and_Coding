@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hamming", "hamming\hamming.csproj", "{C91338D6-1AAA-495F-9211-C6BAB7B9425E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91338D6-1AAA-495F-9211-C6BAB7B9425E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91338D6-1AAA-495F-9211-C6BAB7B9425E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91338D6-1AAA-495F-9211-C6BAB7B9425E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91338D6-1AAA-495F-9211-C6BAB7B9425E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A796359E-3A53-43D4-B27A-5C94EBD2C5B9}
+	EndGlobalSection
+EndGlobal

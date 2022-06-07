@@ -1,0 +1,7 @@
+E:\Университет\Теор инф и код\hamming\hamming\bin\Debug\hamming.exe.config
+E:\Университет\Теор инф и код\hamming\hamming\bin\Debug\hamming.exe
+E:\Университет\Теор инф и код\hamming\hamming\bin\Debug\hamming.pdb
+E:\Университет\Теор инф и код\hamming\hamming\obj\Debug\hamming.csproj.AssemblyReference.cache
+E:\Университет\Теор инф и код\hamming\hamming\obj\Debug\hamming.csproj.CoreCompileInputs.cache
+E:\Университет\Теор инф и код\hamming\hamming\obj\Debug\hamming.exe
+E:\Университет\Теор инф и код\hamming\hamming\obj\Debug\hamming.pdb
